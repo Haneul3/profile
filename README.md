@@ -2,7 +2,6 @@
 <br/>
 <br/>
 ## blog ##
-[PK's LAB] <br/>
 [https://www.naver.com](https://programinglab.tistory.com/manage)
 <br/>
 <br/>
