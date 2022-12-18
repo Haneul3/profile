@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=행복하게%20개발하기%20&&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=^^%20개발%20&&animation=twinkling)
 <br/>
 <br/>
 ## blog ##
